@@ -1,0 +1,17 @@
+
+# Archivos de IntelliJ
+.idea/
+*.iml
+
+# Archivos compilados
+out/
+*.class
+
+# Archivos temporales
+*.log
+.DS_Store
+Thumbs.db
+
+# Archivos generados
+output/*
+!output/.gitkeep
